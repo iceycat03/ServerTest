@@ -1,0 +1,8 @@
+{
+	"name":"servertest",
+	"version":"0.0.0",
+	"author":"Carl Damke",
+	"dependencies":{
+		"express":"^4.0"
+	}
+}
